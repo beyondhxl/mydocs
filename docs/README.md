@@ -49,4 +49,14 @@
 
 - [Sanarous-Notes](https://github.com/Sanarous/Sanarous.github.io)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [C/C++ 技术面试基础知识总结](https://interview.huihut.com/#/?id=%f0%9f%93%91-%e7%9b%ae%e5%bd%95)
+- [LeetCode刷题](https://leetcode.wang/)
+- [C/C++ 技术面试基础知识总结](https://interview.huihut.com/#/?id=%f0%9f%93%91-%e7%9b%ae%e5%bd%95)
+- [Golang上百道面试题](http://interview.wzcu.com/)
+- [校招薪水公众号](https://www.ioffershow.com/static/shouye/)
+- [美团后台开发工程师一面知识点总结](https://www.cnblogs.com/yahuian/p/11486311.html)
+- [剑指offer思路整理](http://blog.xbblfz.site/2018/04/09/%E5%89%91%E6%8C%87offer%E9%A2%98%E7%9B%AE%E6%95%B4%E7%90%86/)
+- [剑指offer](https://rongxuanhong.github.io/tags/%E5%89%91%E6%8C%87offer/)
+- [java通俗讲解的知识点整理](https://blog.csdn.net/l8947943/article/details/104477780)
+- [My LeetCode Log](https://zqt0.gitbook.io/leetcode/)
 
