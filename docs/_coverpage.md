@@ -1,4 +1,4 @@
-<div class="cover-main"><img width="150px" src="https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/friends/touxiang.jpeg" style="border-radius: 50%">
+<div class="cover-main"><img width="150px" src="https://blogimage-1300452281.cos.ap-shanghai.myqcloud.com/%E5%B0%81%E9%9D%A2/206183.jpg" style="border-radius: 50%">
 <br/>
 
 ## 梦溪笔谈
