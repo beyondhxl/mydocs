@@ -59,4 +59,6 @@
 - [剑指offer](https://rongxuanhong.github.io/tags/%E5%89%91%E6%8C%87offer/)
 - [java通俗讲解的知识点整理](https://blog.csdn.net/l8947943/article/details/104477780)
 - [My LeetCode Log](https://zqt0.gitbook.io/leetcode/)
-
+- [LeetCode算法练习个人总结](https://www.kancloud.cn/maliming/leetcode)
+- [《LeetBook（LeetCode详解）》](https://legacy.gitbook.com/book/hk029/leetbook/details)
+- [19CS小硕校招面试心得与自学CS经验及找工作分享](https://conanhujinming.github.io/post/tips_for_interview/)
